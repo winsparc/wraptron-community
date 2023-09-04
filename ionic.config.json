@@ -1,0 +1,7 @@
+{
+  "name": "ashoka",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
